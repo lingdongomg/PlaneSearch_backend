@@ -1,0 +1,102 @@
+[
+  {
+    "agencies": "EEE001,AAA001,",
+    "planeList": [
+      {
+        "carrier": "HU",
+        "flightNO": 7603,
+        "departureDatetime": 202301011649,
+        "arrivalDatetime": 202301011909
+      },
+      {
+        "carrier": "HU",
+        "flightNO": 7610,
+        "departureDatetime": 202301022134,
+        "arrivalDatetime": 202301022349
+      },
+      {
+        "carrier": "HU",
+        "flightNO": 7601,
+        "departureDatetime": 202301032152,
+        "arrivalDatetime": 202301040017
+      }
+    ],
+    "seat": "Y",
+    "sumprice": 2940
+  },
+  {
+    "agencies": "UUU001,",
+    "planeList": [
+      {
+        "carrier": "HU",
+        "flightNO": 7603,
+        "departureDatetime": 202301011649,
+        "arrivalDatetime": 202301011909
+      },
+      {
+        "carrier": "HU",
+        "flightNO": 7604,
+        "departureDatetime": 202301022125,
+        "arrivalDatetime": 202301022345
+      },
+      {
+        "carrier": "HU",
+        "flightNO": 7603,
+        "departureDatetime": 202301031724,
+        "arrivalDatetime": 202301031944
+      }
+    ],
+    "seat": "Y",
+    "sumprice": 2940
+  },
+  {
+    "agencies": "TTT001,",
+    "planeList": [
+      {
+        "carrier": "HU",
+        "flightNO": 7603,
+        "departureDatetime": 202301011649,
+        "arrivalDatetime": 202301011909
+      },
+      {
+        "carrier": "HU",
+        "flightNO": 7602,
+        "departureDatetime": 202301022347,
+        "arrivalDatetime": 202301030212
+      },
+      {
+        "carrier": "HU",
+        "flightNO": 7603,
+        "departureDatetime": 202301031724,
+        "arrivalDatetime": 202301031944
+      }
+    ],
+    "seat": "Y",
+    "sumprice": 2940
+  },
+  {
+    "agencies": "TTT001,",
+    "planeList": [
+      {
+        "carrier": "HU",
+        "flightNO": 7601,
+        "departureDatetime": 202301012350,
+        "arrivalDatetime": 202301020215
+      },
+      {
+        "carrier": "HU",
+        "flightNO": 7602,
+        "departureDatetime": 202301022347,
+        "arrivalDatetime": 202301030212
+      },
+      {
+        "carrier": "HU",
+        "flightNO": 7603,
+        "departureDatetime": 202301031724,
+        "arrivalDatetime": 202301031944
+      }
+    ],
+    "seat": "Y",
+    "sumprice": 2940
+  }
+]

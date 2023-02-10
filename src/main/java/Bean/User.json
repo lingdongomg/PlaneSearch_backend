@@ -1,0 +1,22 @@
+{
+  "k": 10,
+  "people": 5,
+  "agencies": "a",
+  "planeList": [
+    {
+      "departure": "SHA",
+      "arrival": "WUH",
+      "departureDate": 20230101
+    },
+    {
+      "departure": "WUH",
+      "arrival": "BJS",
+      "departureDate": 20230102
+    },
+    {
+      "departure": "BJS",
+      "arrival": "SHA",
+      "departureDate": 20230103
+    }
+  ]
+}
